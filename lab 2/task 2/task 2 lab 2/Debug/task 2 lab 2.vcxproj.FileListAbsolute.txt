@@ -1,0 +1,2 @@
+E:\МАРИНА\c++ tasks\task 1,2 lab 2\task 2\task 2 lab 2\Debug\task 2 lab 2.exe
+E:\МАРИНА\c++ tasks\task 1,2 lab 2\task 2\task 2 lab 2\Debug\task 2 lab 2.pdb
